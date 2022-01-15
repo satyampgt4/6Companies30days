@@ -9,3 +9,8 @@ Solution :[Solution](./GoldmanSach)
 Company Name : <strong>Amazon</strong> <br>
 Questions Doc Link: [Amazon Questions](https://docs.google.com/document/d/1KH9GVaUCET-y5SL5sg6DAnon9XwRRW-sPiyJ2p7FRLs/edit)<br>
 Solution :[Solution](./Amazon) 
+
+## Day 11-15 <br>
+Company Name : <strong>Microsoft</strong> <br>
+Questions Doc Link: [Microsoft Questions](https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1usFm4QRkr1Wb5ouk/edit)<br>
+Solution :[Solution](./Microsoft) 
