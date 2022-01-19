@@ -14,3 +14,8 @@ Solution :[Solution](./Amazon)
 Company Name : <strong>Microsoft</strong> <br>
 Questions Doc Link: [Microsoft Questions](https://docs.google.com/document/d/1sSyOTeZBVJExf0oytLVGk6Z34h1usFm4QRkr1Wb5ouk/edit)<br>
 Solution :[Solution](./Microsoft) 
+
+## Day 16-20 <br>
+Company Name : <strong>Adobe</strong> <br>
+Questions Doc Link: [Adobe Questions](https://docs.google.com/document/d/1cEAe63fC3YMJRwKmCoVOIXFUaFv5LqNXedxaGpaqd6U/edit)<br>
+Solution :[Solution](./Adobe) 
